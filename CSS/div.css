@@ -1,0 +1,319 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+body{
+	font-family:"宋体";
+	font-size:12px;
+	color:#000;
+	background-color:#333;
+}
+#warp {
+	width:1023px;
+	height:1200px;
+	margin:0 auto;
+	background-color: #F0F;
+}
+#warp_first {
+	width:1023px;
+	height:4370px;
+	margin:0 auto;
+}
+#head {
+	background:#FFF url(../images/kp_03.png) no-repeat left top;
+	height:436px;
+	width:1023px;
+}
+
+#fast {
+	text-align:right;
+	padding-right:80px;
+	padding-top:23px;
+	color:#FFF;
+}
+#fast a {
+	color:#999;
+	text-decoration:none;
+	font-size: 10px;
+	font-family: "幼圆";
+}
+#nav2 {
+	float:left;
+	width:500px;
+	padding-left:500px;
+	padding-top:113px;
+}
+#nav2 ul {
+	list-style: none;
+	margin:0px;
+	padding:0px;
+}
+#nav2 li {
+	float:left;
+	padding-left:10px;
+}
+#nav2 a {
+	display:block;
+	width:90px;
+	height:30px;
+	line-height:30px;
+	font-family:"黑体";
+	font-size:18px;
+	color:#FFF;
+	text-align:center;
+	text-decoration: none;
+}
+#nav2 a:hover {
+	background-color: #F0F;
+	font-family: "黑体";
+	font-size: 18px;
+}
+#nav {
+	float:left;
+	width:500px;
+	padding-left:500px;
+	padding-top:118px;
+}
+#nav ul {
+	list-style: none;
+	margin:0px;
+	padding:0px;
+}
+#nav li {
+	float:left;
+	padding-left:10px;
+}
+#nav a {
+	display:block;
+	width:90px;
+	height:30px;
+	line-height:30px;
+	font-family:"黑体";
+	font-size:18px;
+	color:#FFF;
+	text-align:center;
+	text-decoration: none;
+}
+#nav a:hover {
+	background-color: #F0F;
+	font-family: "黑体";
+	font-size: 18px;
+}
+#lyric {
+	float:left;
+	margin-top:83px;
+	padding-left:400px;
+	width:625px;
+	height:55px;
+}
+#lyric p{
+	font-size:36px;
+	color:#F0F;
+	font-family: "方正姚体";
+}
+#da {
+	float:left;
+	margin-top:15px;
+	padding-left:10px;
+	width:550px;
+	height:100px;
+}
+#da p {
+	font-family:"钟齐志莽行书";
+	font-size:70px;
+	color:#0C3;
+}
+#gezhan h2{
+	font-size:50px;
+	font-family:"华文中宋";
+	color:#090;
+}
+
+#left_side {
+	width:270px;
+	height:670px;
+	margin-top:8px;
+	float:left;
+	background:#FFF url(../images/left_01.png) no-repeat left top;
+	color: #F0F;
+}
+#left_side h1 {
+	font-family: "宋体";
+	font-size: 24px;
+	color: #0C0;
+	height: 30px;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+#left_side ul {
+	line-height: 26px;
+	margin: 0px;
+	padding: 0px;
+}
+#left_side ul li {
+	list-style:none;
+	font-size: 13px;
+	text-align: center;
+	padding-right: 30px;
+}
+#left_side ul li a:link, a:visited {
+	color: #39C;
+	text-decoration: none;
+}
+#left_side ul li a:active, a:hover {
+	color: #0C0;
+	font-size: 13px;
+}
+.li_bg {
+	background: url(../images/li_bg.png) no-repeat center;
+	margin:0;
+	padding:0;
+	height:5px;
+	width:220px;
+}
+.li_bg2 {
+	background: url(../images/xhx_02.png) no-repeat center;
+	margin:0;
+	padding:0;
+	height:5px;
+	width:270px;
+}
+#content {
+	float:left;
+	margin-top:8px;
+	margin-left:8px;
+	width:685px;
+	height:610px;
+	padding:30px;
+	background-image: url(../images/ct_01.jpg);
+}
+#content2 {
+	float:left;
+	margin-top:28px;
+	margin-left:8px;
+	width:650px;
+	height:3767px;
+	padding:30px;
+}
+#title {
+	height:50px;
+	width:680px;
+}
+#title h2 {
+	font-family: "宋体";
+	font-size: 24px;
+	color: #FFF;
+}
+#jbxx {
+	float:left;
+	margin-top:5px;
+	padding-left:10px;
+	width:670px;
+}
+#jbxx p {
+	font-family:"宋体";
+	font-size:13px;
+	color:#FFF;
+}
+#jbxx p a {
+	color: #F9C;
+	text-decoration: none;
+}
+#jbxx table {
+	color: #FFF;
+	font-size:13px;
+	text-decoration: none;
+}
+#jbxx table tr td a {
+	color: #F9C;
+	text-decoration: none;
+}
+#dzwdxy {
+	float:left;
+	margin-top:5px;
+	padding-left:30px;
+	padding-right:30px;
+	width:620px;
+}
+#dzwdxy p {
+	font-family:"宋体";
+	font-size:13px;
+	color:#FFF;
+}
+.tupian {
+	padding-left:60px;
+	width:610px;
+}
+#content p {
+	text-indent:2em;
+	line-height:1.5em;
+	margin:10px;
+	color: #FFF;
+	font-size: 13px;
+}
+#content li {
+	font-size:13px;
+	color:#FFF;
+	text-align:right;
+	text-decoration: none;
+}
+#content li a {
+	color: #F9C;
+	text-decoration: none;
+}
+#footer {
+	margin-top:8px;
+	width:1023px;
+	height:30px;
+	float:left;
+	background:#FFF url(../images/footer_04.png) no-repeat left top;
+	text-align:center;
+	padding:20px 0 20px;
+	line-height:20px;
+}
+#footer p {
+	color:#FFF;}
+.mp{
+	background-color:#333;
+	}
+.zt{
+	font-family:"黑体";
+	font-size:25px;
+	color:#FFF;
+	text-align:center;
+}
+.wz2 {
+	font-size:13px;
+	font-family:"宋体";
+	color:#CCC;
+	}
+.wz3 {
+	font-size:18px;
+	font-family:"宋体";
+	color:#CCC;
+}
+#left_1 a {
+	text-decoration: none;
+}
+#left{
+	width:299px;
+	height:670px;
+	margin-top:8px;
+	float:left;	
+	}
+#left_1{
+	width:279px;
+	height:270px;
+	margin-top:0px;
+	float:left;
+	padding-left:20px;
+	}
+#left_2 {
+	margin-top:40px;
+	width:299px;
+	height:250px;
+	float:left;
+}

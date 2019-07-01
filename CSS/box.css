@@ -1,0 +1,175 @@
+@charset "utf-8";
+.{
+	padding:0;
+	margin:0;
+}
+.demo{
+	margin-top:75px;
+	margin-left:25px;
+	width:150px;
+	height:50px;
+	position:relative;
+}
+.demo_bg{
+	position:absolute;
+	left:162px;
+	top:461px;
+	z-index:0;
+	width:200px;
+	height:200px;
+	background-color:#000000;
+	filter:alpha(Opacity=60);
+	-moz-opacity:0.6;
+	opacity:0.6;
+}
+.demo_text{
+	position:relative;
+	z-index:1;
+	color:#FFFFFF;
+	font-family: "黑体";
+	font-size: 24px;
+	text-align: center;
+}
+.demo2{
+	margin-top:75px;
+	margin-left:25px;
+	width:150px;
+	height:50px;
+	position:relative;
+}
+.demo_bg2{
+	position:absolute;
+	left:438px;
+	top:461px;
+	z-index:0;
+	width:200px;
+	height:200px;
+	background-color:#000000;
+	filter:alpha(Opacity=60);
+	-moz-opacity:0.6;
+	opacity:0.6;
+}
+.demo_text2{
+	position:relative;
+	z-index:1;
+	color:#FFFFFF;
+	font-family: "黑体";
+	font-size: 24px;
+	text-align: center;
+}
+.demo3{
+	margin-top:75px;
+	margin-left:25px;
+	width:150px;
+	height:50px;
+	position:relative;
+}
+.demo_bg3{
+	position:absolute;
+	left:708px;
+	top:461px;
+	z-index:0;
+	width:200px;
+	height:200px;
+	background-color:#000000;
+	filter:alpha(Opacity=60);
+	-moz-opacity:0.6;
+	opacity:0.6;
+}
+.demo_text3{
+	position:relative;
+	z-index:1;
+	color:#FFFFFF;
+	font-family: "黑体";
+	font-size: 24px;
+	text-align: center;
+}
+.demo4{
+	margin-top:75px;
+	margin-left:25px;
+	width:150px;
+	height:50px;
+	position:relative;
+}
+.demo_bg4{
+	position:absolute;
+	left:985px;
+	top:461px;
+	z-index:0;
+	width:200px;
+	height:200px;
+	background-color:#000000;
+	filter:alpha(Opacity=60);
+	-moz-opacity:0.6;
+	opacity:0.6;
+}
+.demo_text4{
+	position:relative;
+	z-index:1;
+	color:#FFFFFF;
+	font-family: "黑体";
+	font-size: 24px;
+	text-align: center;
+}
+.demo5{
+	margin-top:8px;
+	margin-left:65px;
+	width:150px;
+	height:670px;
+	position:relative;
+}
+.demo_bg5{
+	position:absolute;
+	left:602px;
+	top:688px;
+	z-index:0;
+	width:300px;
+	height:670px;
+	background-color:#000000;
+	filter:alpha(Opacity=60);
+	-moz-opacity:0.6;
+	opacity:0.6;
+}
+.demo_text5{
+	position:relative;
+	z-index:1;
+	color:#FFFFFF;
+	font-family: "黑体";
+	font-size: 14px;
+	text-align: center;
+}
+#box1 a {
+	color: #FFF;
+	text-decoration: none;
+}
+#box1 a:hover{
+	color:#F6C;
+}
+#box2 a {
+	color: #FFF;
+	text-decoration: none;
+}
+#box2 a:hover{
+	color:#F6C;
+}
+#box3 a {
+	color: #FFF;
+	text-decoration: none;
+}
+#box3 a:hover{
+	color:#F6C;
+}
+#box4 a {
+	color: #FFF;
+	text-decoration: none;
+}
+#box4 a:hover{
+	color:#F6C;
+}
+#gc a {
+	color: #FFF;
+	text-decoration: none;
+}
+#gc a:hover{
+	color:#F6C;
+}
